@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"aurora_Marlin";1;"LOGO";;;
+2;"C1,C3";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"0.1uF";;;
+3;"C2";"CP_Elec_4x4.5";1;"10uF";;;
+4;"J1";"USB_Micro-B_GCT_USB3076-30-A";1;"USB_B_Micro";;;
+5;"J2";"PinHeader_1x06_P2.00mm_Horizontal";1;"TTL";;;
+6;"JP1";"SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"SJ";;;
+7;"LED1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"Red";;;
+8;"LED2";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"Green";;;
+9;"R1,R2";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"1K";;;
+10;"U1";"SSOP-28_5.3x10.2mm_P0.65mm";1;"FT232RL";;;

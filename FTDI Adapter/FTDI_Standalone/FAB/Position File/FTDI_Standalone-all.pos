@@ -1,0 +1,15 @@
+### Module positions - created on 16/06/2019 21:04:57 ###
+### Printed by Pcbnew version kicad (5.1.2)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val          Package                                             PosX       PosY       Rot  Side
+C1        0.1uF        C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      88.7730   -56.0070  180.0000  top
+C2        10uF         CP_Elec_4x4.5                                    86.9950   -50.9270   90.0000  top
+C3        0.1uF        C_0805_2012Metric_Pad1.15x1.40mm_HandSolder      81.2800   -59.4360  180.0000  top
+J1        USB_B_Micro  USB_Micro-B_GCT_USB3076-30-A                     93.5990   -52.7050   90.0000  top
+LED1      Red          LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    81.4070   -55.4990  270.0000  top
+LED2      Green        LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder    83.6930   -55.4990  270.0000  top
+R1        1K           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      86.6140   -59.4360  180.0000  top
+R2        1K           R_0805_2012Metric_Pad1.15x1.40mm_HandSolder      92.4560   -59.4360  180.0000  top
+U1        FT232RL      SSOP-28_5.3x10.2mm_P0.65mm                       74.2950   -53.9750    0.0000  top
+## End
